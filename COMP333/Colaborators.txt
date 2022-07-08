@@ -1,0 +1,2 @@
+Collaborators:
+Bryan Rodriguez: He answered one question on which token i used for the negate parser
